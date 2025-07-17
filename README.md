@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-sammcj-mcp-package-version-badge.png)](https://mseep.ai/app/mcp-mirror-sammcj-mcp-package-version)
+
 # Package Version MCP Server
 
 An MCP server that provides tools for checking latest stable package versions from multiple package registries:
